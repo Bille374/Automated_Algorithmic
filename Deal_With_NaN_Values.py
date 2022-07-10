@@ -2,7 +2,7 @@
 """
 Created on Sun Jul 10 08:35:25 2022
 
-@author: eszczepalink
+@author: 
 """
 
 import datetime as dt
